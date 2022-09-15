@@ -1,0 +1,15 @@
+h1{color: #000080;
+    font-size: 200%;
+   font-family: ; 
+text-align: center;}
+p{color: blueviolet;}
+.leftimg {
+    float:left;
+    margin: 7px 7px 7px 0; 
+   }
+   .rightimg  {
+    float: right; 
+    margin: 7px 0 7px 7px; 
+   }
+
+
